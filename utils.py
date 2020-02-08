@@ -20,3 +20,5 @@ y = tic_tac_toe['Class'].astype('category').cat.codes
 X_train, X_test, y_train, y_test = train_test_split(X, y, train_size = 0.1, random_state=42)
 classifier = RandomForestClassifier(n_estimators=500, random_state=42)
 classifier.fit(X_train, y_train)
+
+diabetes = pd.read_csv('data/diabetes.csv')
