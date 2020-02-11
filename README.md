@@ -1,4 +1,6 @@
-# Types of Machine Learning Systems
+# ML Challenge Week 3 - Supervised Learning
+
+## Types of Machine Learning Systems
 
 There are so many different types of Machine Learning systems that it is useful to classify them in broad categories, based on the following criteria:
 + Whether or not they are trained with human supervision (supervised, unsupervised, semisupervised, and reinforcement learning)
